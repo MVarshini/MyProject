@@ -8,3 +8,11 @@ for x in range(0,1000):
        num.append(str(x))
        
 print num "," .join()
+
+
+#Functions
+def welcome(name)
+   print 'Hi!' , name
+
+welcome(Jalal)
+welcome(Rithika)
